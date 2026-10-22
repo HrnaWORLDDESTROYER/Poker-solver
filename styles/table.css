@@ -1,0 +1,15 @@
+:root{
+    --color-background:#30364F;
+    --color-cell:#ACBAC4;
+}
+
+td{
+    background-color: var(--color-cell);
+    width:80px;
+    height:80px;
+}
+
+table{
+    background-color: var(--color-background);
+}
+
